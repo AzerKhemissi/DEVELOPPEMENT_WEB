@@ -50,7 +50,7 @@ Le design du site devra être moderne, minimaliste et professionnel tout en refl
 
 ### b. RGPD
 - Mise en place d'une bannière de consentement pour les cookies si nécessaire
-- Formulaire de contact conforme (ex: case à cocher pour l'acceptation des CGU)
+- Formulaire de contact conforme (exemple: case à cocher pour l'acceptation des CGU)
 
 ### c. SEO
 - Optimisation pour le référencement naturel (balises meta, structure sémantique, rapidité de chargement)
